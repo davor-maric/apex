@@ -1,3 +1,1 @@
-test txt file inside subfolder
-changed in second clone
-edit 3 (SourceTree test)
+test2 doc edited locally
