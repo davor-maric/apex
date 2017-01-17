@@ -1,4 +1,4 @@
 test txt file inside subfolder
 changed in second clone
 edit 3 (SourceTree test)
-change in new-feature branch
+more changes in NF
